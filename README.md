@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
 <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFF"/>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=000"/>-->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=000"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=000">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=000"/>
   
   
