@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFF"/>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=000"/>
 -->
-  <h1>Tools</h1>
+  <h1>🛠Tools🛠</h1>
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=000"/>   
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=fff"/>   
