@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ECEBF3&height=300&width=2000&section=header&text=I'm%20Gukss&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello&descAlignY=51&descAlign=62)
 
 <div align="center">
-✏Stack✏
+#✏Stack✏  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=000"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=000"/>
