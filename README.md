@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![Gukss's github stats](https://github-readme-stats.vercel.app/api?username=Gukss)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongkuk97)](https://solved.ac/dongkuk97/)
