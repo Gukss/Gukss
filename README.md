@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=000"/>
 -->
   <h1>Tools</h1>
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=000"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=000"/>   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongkuk97)](https://solved.ac/dongkuk97/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gukss&layout=compact)](https://github.com/Gukss/github-readme-stats)
   <!--[![Gukss's github stats](https://github-readme-stats.vercel.app/api?username=Gukss)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
