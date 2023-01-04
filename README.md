@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ECEBF3&height=300&width=2000&section=header&text=I'm%20Gukss&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello&descAlignY=51&descAlign=62)
 
 <div align="center">
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGukss%2Fhit-counter&count_bg=%231971C2&title_bg=%23A5D8FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
 <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFF"/>
