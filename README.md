@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=ECEBF3&height=300&section=header&text=I'm%20Gukss&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello<!--%20GitHub%20Profile%20or%20any%20Repo%20like%20me!-->&descAlignY=51&descAlign=62)
+  
 
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=ECEBF3&height=300&section=header&text=I'm%20Gukss&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
 <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFF"/>
